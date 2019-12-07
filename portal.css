@@ -1,0 +1,39 @@
+.col label
+{
+	font-weight: bold;
+	margin-left:20px;
+}
+
+.sample
+{
+	text-align: right;
+}
+
+.form-control
+{
+	max-width: 400px;
+}
+#date
+{
+	max-width: 200px;
+}
+textarea
+{
+	max-width: 600px;
+}
+input[type=radio]
+{
+	margin-left: 10px;
+}
+input[type=checkbox] {
+    transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    padding: 10px;
+}
+.card
+{
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
